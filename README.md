@@ -1,3 +1,3 @@
 # git-demo
 
-This line remote repository.
+This line remote s repository.
