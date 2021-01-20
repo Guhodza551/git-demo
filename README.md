@@ -1,6 +1,6 @@
 # git-demo
 
-This line remote s repository.
-hello wolrd
-
-thatawat tongso
+hello my name's Thatawat Tongso 
+my nickname Punk 
+21 year old 
+study at rajamangala university of technology phra nakhon
